@@ -9,6 +9,8 @@
     "config.json"
   ],
   "devDependencies": {
-    "node-fetch": "2.1.2"
+    "ava": "^0.25.0",
+    "node-fetch": "2.1.2",
+    "semver": "^5.5.0"
   }
 }
