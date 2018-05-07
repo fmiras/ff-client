@@ -12,7 +12,7 @@ npm install --save ff-client
 ### Usage
 
 ```js
-const FFClient = require('ff-client')
+const { FFClient } = require('ff-client')
 
 const ffclient = new FFClient(1) // Using customer ID 1
 
