@@ -1,0 +1,10 @@
+{
+  "name": "ff-client",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "fmiras",
+  "license": "MIT",
+  "devDependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
