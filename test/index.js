@@ -16,7 +16,7 @@ test('Solve behavior of correct semantic version', t => {
   }
 
   const behavior = ffclient.solveVersion(rules, "2.1.0")
-  t.is(behavior.name, 'behavior2')
+  t.is(behavior.name, 'behavior3')
 })
 
 test('Solve behavior of exact semantic version', t => {
